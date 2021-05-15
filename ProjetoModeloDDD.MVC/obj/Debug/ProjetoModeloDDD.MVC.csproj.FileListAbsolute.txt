@@ -1,0 +1,2 @@
+D:\WORKSPACE\VS-TREINAMENTO_DOTNET\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\ProjetoModeloDDD.MVC.csprojAssemblyReference.cache
+D:\WORKSPACE\VS-TREINAMENTO_DOTNET\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\ProjetoModeloDDD.MVC.csproj.CoreCompileInputs.cache

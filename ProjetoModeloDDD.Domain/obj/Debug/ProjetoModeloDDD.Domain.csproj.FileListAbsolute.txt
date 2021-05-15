@@ -1,0 +1,5 @@
+D:\WORKSPACE\VS-TREINAMENTO_DOTNET\ProjetoModeloDDD\ProjetoModeloDDD.Domain\bin\Debug\ProjetoModeloDDD.Domain.dll
+D:\WORKSPACE\VS-TREINAMENTO_DOTNET\ProjetoModeloDDD\ProjetoModeloDDD.Domain\bin\Debug\ProjetoModeloDDD.Domain.pdb
+D:\WORKSPACE\VS-TREINAMENTO_DOTNET\ProjetoModeloDDD\ProjetoModeloDDD.Domain\obj\Debug\ProjetoModeloDDD.Domain.csproj.CoreCompileInputs.cache
+D:\WORKSPACE\VS-TREINAMENTO_DOTNET\ProjetoModeloDDD\ProjetoModeloDDD.Domain\obj\Debug\ProjetoModeloDDD.Domain.dll
+D:\WORKSPACE\VS-TREINAMENTO_DOTNET\ProjetoModeloDDD\ProjetoModeloDDD.Domain\obj\Debug\ProjetoModeloDDD.Domain.pdb
